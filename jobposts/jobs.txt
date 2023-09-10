@@ -1,0 +1,110 @@
+PID0004
+BA
+Business Analysis
+22/12/23
+Part Time
+Fixed term
+Post
+NSW
+
+----------------------------------------------------------------------------
+PID0005
+BA
+Business Analysis
+22/10/23
+Part Time
+Fixed term
+Post
+NSW
+
+----------------------------------------------------------------------------
+PID0010
+Accountant
+Management students for Accountant
+22/10/23
+Part Time
+On-going
+Post
+NT
+
+----------------------------------------------------------------------------
+PID0009
+Accountant
+Management students for Accountant
+22/10/23
+Full Time
+Fixed term
+Post
+NT
+
+----------------------------------------------------------------------------
+PID0007
+Lawyer
+Low Student
+22/12/23
+Part Time
+On-going
+Post
+WA
+
+----------------------------------------------------------------------------
+PID0008
+Lawyer
+Low Student
+22/10/24
+Part Time
+On-going
+Post
+WA
+
+----------------------------------------------------------------------------
+PID0006
+Grap Desg
+Grap Designer 
+22/10/23
+Full Time
+On-going
+Post
+VIC
+
+----------------------------------------------------------------------------
+PID0011
+SE
+Software engineering
+22/12/23
+Part Time
+On-going
+Post
+QLD
+
+----------------------------------------------------------------------------
+PID0012
+SE
+Software engineering
+22/12/23
+Part Time
+On-going
+Post
+QLD
+
+----------------------------------------------------------------------------
+PID0013
+Software Eng
+Software Engineering
+22/12/23
+Part Time
+On-going
+Post
+ACT
+
+----------------------------------------------------------------------------
+PID0015
+SE
+Software Enigeering
+05/09/23
+Part Time
+Fixed term
+Post
+NSW
+
+----------------------------------------------------------------------------
